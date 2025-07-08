@@ -77,3 +77,11 @@ nav ul {
     background-repeat: no-repeat;
     background-position: top left,bottom right;
 }
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
